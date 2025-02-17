@@ -54,7 +54,7 @@ const TodoApp = () => {
 
   return (
     <div style={styles.container}>
-      <h2>To-Do List</h2>
+      <h2>To-Do List Application</h2>
       <div style={styles.inputContainer}>
         <input
           type="text"
